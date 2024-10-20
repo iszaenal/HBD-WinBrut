@@ -44,7 +44,7 @@ h1 {
   position: absolute;
   inset: 0;
   transform: translateX(0.75rem) translateY(0.5rem) rotateZ(-3deg) skewX(-10deg);
-  background-color: #E88D67;
+  background-color: #00FFFF;
   z-index: -2;
   border-radius: 1.4rem;
   border-bottom-right-radius: 1rem;
@@ -63,5 +63,5 @@ h1 {
   border-bottom-right-radius: 0.2rem;
   border-bottom-left-radius: 0.2rem;
   border-top-left-radius: 0.2rem;
-  background-color: #006989;
+  background-color: #00FFFF;
 }
